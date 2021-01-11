@@ -1,0 +1,12 @@
+.alert {
+    color: red;
+    font-weight: bold;
+}
+
+#greenplanet {
+    cursor: pointer;
+}
+
+p {
+    user-select: none;
+}
